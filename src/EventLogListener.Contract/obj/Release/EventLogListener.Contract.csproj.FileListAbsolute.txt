@@ -1,0 +1,7 @@
+E:\Repos\EventLogWatcher\src\EventLogListener.Contract\bin\Release\EventLogListener.Contract.dll.config
+E:\Repos\EventLogWatcher\src\EventLogListener.Contract\bin\Release\EventLogListener.Contract.dll
+E:\Repos\EventLogWatcher\src\EventLogListener.Contract\bin\Release\EventLogListener.Contract.pdb
+E:\Repos\EventLogWatcher\src\EventLogListener.Contract\bin\Release\Oracle.DataAccess.dll
+E:\Repos\EventLogWatcher\src\EventLogListener.Contract\bin\Release\Oracle.ManagedDataAccess.dll
+E:\Repos\EventLogWatcher\src\EventLogListener.Contract\obj\Release\EventLogListener.Contract.dll
+E:\Repos\EventLogWatcher\src\EventLogListener.Contract\obj\Release\EventLogListener.Contract.pdb

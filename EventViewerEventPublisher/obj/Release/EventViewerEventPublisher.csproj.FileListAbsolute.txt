@@ -1,0 +1,6 @@
+E:\Repos\EventLogWatcher\EventViewerEventPublisher\bin\Release\EventViewerEventPublisher.exe.config
+E:\Repos\EventLogWatcher\EventViewerEventPublisher\bin\Release\EventViewerEventPublisher.exe
+E:\Repos\EventLogWatcher\EventViewerEventPublisher\bin\Release\EventViewerEventPublisher.pdb
+E:\Repos\EventLogWatcher\EventViewerEventPublisher\obj\Release\EventViewerEventPublisher.exe
+E:\Repos\EventLogWatcher\EventViewerEventPublisher\obj\Release\EventViewerEventPublisher.pdb
+E:\Repos\EventLogWatcher\EventViewerEventPublisher\obj\Release\EventViewerEventPublisher.csprojResolveAssemblyReference.cache

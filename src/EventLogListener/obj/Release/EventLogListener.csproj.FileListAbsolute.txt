@@ -1,0 +1,10 @@
+E:\Repos\EventLogWatcher\src\EventLogListener\bin\Release\EventLogListener.exe.config
+E:\Repos\EventLogWatcher\src\EventLogListener\bin\Release\EventLogListener.exe
+E:\Repos\EventLogWatcher\src\EventLogListener\bin\Release\EventLogListener.pdb
+E:\Repos\EventLogWatcher\src\EventLogListener\bin\Release\EventLogListener.Contract.dll
+E:\Repos\EventLogWatcher\src\EventLogListener\bin\Release\Oracle.DataAccess.dll
+E:\Repos\EventLogWatcher\src\EventLogListener\bin\Release\EventLogListener.Contract.pdb
+E:\Repos\EventLogWatcher\src\EventLogListener\bin\Release\EventLogListener.Contract.dll.config
+E:\Repos\EventLogWatcher\src\EventLogListener\obj\Release\EventLogListener.csprojResolveAssemblyReference.cache
+E:\Repos\EventLogWatcher\src\EventLogListener\obj\Release\EventLogListener.exe
+E:\Repos\EventLogWatcher\src\EventLogListener\obj\Release\EventLogListener.pdb
